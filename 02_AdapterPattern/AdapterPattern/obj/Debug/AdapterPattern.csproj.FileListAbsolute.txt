@@ -1,0 +1,9 @@
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\git_repo\StudyPattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\git_repo\StudyPattern\02_AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\git_repo\StudyPattern\02_AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\git_repo\StudyPattern\02_AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

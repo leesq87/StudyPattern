@@ -1,0 +1,6 @@
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\bin\Debug\01_StrategyPattern.exe.config
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\bin\Debug\01_StrategyPattern.exe
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\bin\Debug\01_StrategyPattern.pdb
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\obj\Debug\01_StrategyPattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\obj\Debug\01_StrategyPattern.exe
+D:\git_repo\StudyPattern\01_StrategyPattern\01_StrategyPattern\obj\Debug\01_StrategyPattern.pdb
