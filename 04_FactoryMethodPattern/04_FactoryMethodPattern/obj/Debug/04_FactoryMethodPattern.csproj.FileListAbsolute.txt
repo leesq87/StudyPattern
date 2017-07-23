@@ -1,0 +1,6 @@
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\bin\Debug\04_FactoryMethodPattern.exe.config
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\bin\Debug\04_FactoryMethodPattern.exe
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\bin\Debug\04_FactoryMethodPattern.pdb
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\obj\Debug\04_FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\obj\Debug\04_FactoryMethodPattern.exe
+D:\git_repo\StudyPattern\04_FactoryMethodPattern\04_FactoryMethodPattern\obj\Debug\04_FactoryMethodPattern.pdb
