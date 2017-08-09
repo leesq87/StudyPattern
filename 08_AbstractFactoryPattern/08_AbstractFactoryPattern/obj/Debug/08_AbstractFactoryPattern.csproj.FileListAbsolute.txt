@@ -1,0 +1,6 @@
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\bin\Debug\08_AbstractFactoryPattern.exe.config
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\bin\Debug\08_AbstractFactoryPattern.exe
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\bin\Debug\08_AbstractFactoryPattern.pdb
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\obj\Debug\08_AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\obj\Debug\08_AbstractFactoryPattern.exe
+D:\git_repo\StudyPattern\08_AbstractFactoryPattern\08_AbstractFactoryPattern\obj\Debug\08_AbstractFactoryPattern.pdb

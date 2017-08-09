@@ -1,0 +1,6 @@
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\bin\Debug\07.BuilderPattern.exe.config
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\bin\Debug\07.BuilderPattern.exe
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\bin\Debug\07.BuilderPattern.pdb
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\obj\Debug\07.BuilderPattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\obj\Debug\07.BuilderPattern.exe
+D:\git_repo\StudyPattern\07.BuilderPattern\07.BuilderPattern\obj\Debug\07.BuilderPattern.pdb

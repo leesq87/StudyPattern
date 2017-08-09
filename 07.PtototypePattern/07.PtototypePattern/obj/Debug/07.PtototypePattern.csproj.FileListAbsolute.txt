@@ -1,0 +1,6 @@
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\bin\Debug\07.PtototypePattern.exe.config
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\bin\Debug\07.PtototypePattern.exe
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\bin\Debug\07.PtototypePattern.pdb
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\obj\Debug\07.PtototypePattern.csprojResolveAssemblyReference.cache
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\obj\Debug\07.PtototypePattern.exe
+D:\git_repo\StudyPattern\07.PtototypePattern\07.PtototypePattern\obj\Debug\07.PtototypePattern.pdb
